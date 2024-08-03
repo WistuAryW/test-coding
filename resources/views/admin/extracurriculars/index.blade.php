@@ -41,6 +41,4 @@
             </div>
         </div>
     </div>
-
-    @include('admin.layouts.sweetalert')
 @endsection
